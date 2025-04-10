@@ -1,5 +1,5 @@
 2.3.0 - 04/10/2025
 
-- Added chain images to menu
-- Added snatch cooldown
-- Reworked notification
+Added chain images to menu
+Added snatch cooldown
+Reworked notification
